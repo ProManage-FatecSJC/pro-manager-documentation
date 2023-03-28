@@ -85,7 +85,7 @@ Inicialmente foram apresentados alguns requisitos funcionais e não funcionais e
  
 # 💡 User Stories 
 
-<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Users%20Stories.png">
+<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/User%20Stories.png">
  
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
 
