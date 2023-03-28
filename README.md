@@ -155,6 +155,14 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
  
 <span id="Execução">
 
+# ⚡️ Swagger
+
+<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Swagger.png">
+   
+[Clique aqui para acessar a Documentação com toda a parte de rotas da aplicação, no site do Swaggerhub](https://app.swaggerhub.com/apis/Nathtruyts/ProManage/1.0.0)   
+ 
+ <p align="right"><a href="#topo">Voltar ao Topo</p> 
+
 # 🧱 Acessar a aplicação
 ### Em Desenvolvimento 🚧
 <a href="">
@@ -179,13 +187,6 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
 <p align="right"><a href="#topo">Voltar ao Topo</p>
  
 <span id="Manual">
- 
-   
-# ⚡️ Swagger
-   
- [Documentação com toda a parte de rotas da aplicação, no site do Swaggerhub](https://app.swaggerhub.com/apis-docs/Nathtruyts/Conveccao/1.0)   
- 
- <p align="right"><a href="#topo">Voltar ao Topo</p> 
    
   <span id="Equipe">
 
