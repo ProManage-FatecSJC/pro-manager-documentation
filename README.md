@@ -105,7 +105,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![INSOMNIA](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![POSTMAN](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![TYPEORM](https://img.shields.io/badge/Typeorm-black?style=for-the-badge&logo=typeorm&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
