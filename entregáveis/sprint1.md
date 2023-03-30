@@ -59,9 +59,9 @@ Plataforma que permita o cadastro completo de parceiros e membros, registre toda
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
 01          | 02/04/2023  | ✅  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint1.md">Sprint 1</a> |
-02          | 23/04/2023  | 🔒️  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint2.md">Sprint 2</a>
-03          | 15/05/2023  | 🔒️  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint3.md">Sprint 3</a>
-04          | 06/06/2023  | 🔒️  | <a href="https://github.com/Conveccao/conveccao-documentacao/blob/master/entreg%C3%A1veis/sprint4.md">Sprint 4</a>
+02          | 23/04/2023  | 🔒️  | <a href="">Sprint 2</a>
+03          | 15/05/2023  | 🔒️  | <a href="">Sprint 3</a>
+04          | 06/06/2023  | 🔒️  | <a href="">Sprint 4</a>
  <p align="right"><a href="#topo">Voltar ao Topo</p>
 
 
