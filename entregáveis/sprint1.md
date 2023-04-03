@@ -115,6 +115,6 @@ Plataforma que permita o cadastro completo de parceiros e membros, registre toda
 
 O time foi dividido em duas partes: back-end e front-end, onde foram divididas tarefas para cada time, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
-<img src = "https://github.com/Conveccao/conveccao-documentacao/blob/master/burndown-sprint-01.png" >
+<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Burndown.png" >
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
