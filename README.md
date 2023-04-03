@@ -144,7 +144,7 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
 | ---------------------: | :--------------------- | 
 | Master | Principal branch, contém associadas a ela as versões de publicação para facilitar o acesso e a busca por versões mais antigas. |
 | Develop | É uma cópia da branch principal contendo algumas funcionalidades que ainda não foram publicadas. Sendo assim, é a base para o desenvolvimento de novas features. |
-| Feature | Branch que contém uma nova funcionalidade específica para a nossa aplicação. Nela temos a convenção do nome feature/nome_do_recurso que será utilizada no nosso fluxo de trabalho. |
+| Feature | Branch que contém uma nova funcionalidade específica para a nossa aplicação. Nela temos a Promanage do nome feature/nome_do_recurso que será utilizada no nosso fluxo de trabalho. |
 | Hotfix | Utilizada quando ocorre algum problema no ambiente de produção no qual a correção deve ser feita imediatamente. |
 | Release | Unimos o que está pronto em nossa branch de desenvolvimento e “jogamos” para a branch principal. |
 
