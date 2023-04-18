@@ -65,7 +65,7 @@ A empresa Oracle Academy fornece às instituições de ensino os recursos necess
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
 01          | 02/04/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint1.md">Sprint 1</a> |
-02          | 23/04/2023  | 🔒️  | <a href="">Sprint 2</a>
+02          | 23/04/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint2.md">Sprint 2</a>
 03          | 15/05/2023  | 🔒️  | <a href="">Sprint 3</a>
 04          | 06/06/2023  | 🔒️  | <a href="">Sprint 4</a>
  
