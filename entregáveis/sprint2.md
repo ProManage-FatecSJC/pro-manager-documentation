@@ -45,10 +45,6 @@ Desenvolvimento do aplicativo mobile (dashboard), dashboard de informações rel
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
-## 🏷️ Modelo de Dados
-
-<img src = "">
-
 <span id="Entregas">
 
 ## ✅ Entregas
@@ -68,7 +64,7 @@ Desenvolvimento do aplicativo mobile (dashboard), dashboard de informações rel
 
 ## 📦️ Backlog da Sprint
 
-<img src = "">
+<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Sprint%20Backlog%2002.png">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -115,7 +111,7 @@ Desenvolvimento do aplicativo mobile (dashboard), dashboard de informações rel
 
 O time foi dividido em duas partes: back-end e front-end, onde foram divididas tarefas para cada time, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
-<img src = "" >
+<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Burndown%2002.PNG" >
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
