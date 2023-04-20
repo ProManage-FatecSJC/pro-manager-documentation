@@ -112,6 +112,8 @@ Desenvolvimento do aplicativo mobile (dashboard), dashboard de informações rel
 O time foi dividido em duas partes: back-end e front-end, onde foram divididas tarefas para cada time, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
 <img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Burndown%2002.PNG" >
+  
+## [Documentação oficial do projeto](https://github.com/ProManage-FatecSJC/pro-manager-documentation)
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
