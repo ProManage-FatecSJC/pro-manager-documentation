@@ -64,7 +64,7 @@ Aprimoramento e criação de funções na plataforma WEB e MOBILE como: Adição
 
 ## 📦️ Backlog da Sprint
 
-<img src = "">
+<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Backlog%20Sprint%2003.png">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
