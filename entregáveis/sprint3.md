@@ -111,7 +111,7 @@ Aprimoramento e criação de funções na plataforma WEB e MOBILE como: Adição
 
 O time foi dividido em duas partes: back-end e front-end, onde foram divididas tarefas para cada time, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
-<img src = "" >
+<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Burndown%2003.png" >
   
 ## [Documentação oficial do projeto](https://github.com/ProManage-FatecSJC/pro-manager-documentation)
 
