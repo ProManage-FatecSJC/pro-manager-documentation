@@ -33,15 +33,14 @@
 <span id="Sobre">
 
 ## 📝 Sobre o projeto 
- A empresa Oracle Academy fornece às instituições de ensino os recursos necessários para apoiar os educadores a desenvolverem os conhecimentos e habilidades em computação e tecnologia, alinhados aos melhores padrões do setor e usando tecnologias atuais, para que possam ensinar aos alunos as habilidades necessárias para obterem sucesso. Oracle Academy reconhece que instituições de ensino e seus professores investem no sucesso dos alunos e, por isso compartilhamos desse objetivo principal. É fundamental que instituições e educadores tenham acesso aos recursos certos para garantir que seus alunos alcancem o sucesso, seja em direção a sua formação acadêmica, seja em direção a sua vida profissional. Após eles elaborarem suas problemáticas para o nosso grupo nós apresentamos como solução a ProManage um software de organização de gestão
+ A empresa Oracle Academy fornece às instituições de ensino os recursos necessários para apoiar os educadores a desenvolverem os conhecimentos e habilidades em computação e tecnologia, alinhados aos melhores padrões do setor e usando tecnologias atuais, para que possam ensinar aos alunos as habilidades necessárias para obterem sucesso. Oracle Academy reconhece que instituições de ensino e seus professores investem no sucesso dos alunos e, por isso compartilhamos desse objetivo principal. É fundamental que instituições e educadores tenham acesso aos recursos certos para garantir que seus alunos alcancem o sucesso, seja em direção a sua formação acadêmica, seja em direção a sua vida profissional. Após eles elaborarem suas problemáticas para o nosso grupo nós apresentamos como solução a ProManage um software de organização de gestão.
 
 <p align="right"><a href="#topo">Voltar ao Topo</p> 
 
 <span id="Mvp">
 
 ## 📈 MVP 
- 
-
+ Finalização de funcionalidades já estabelecidas e aprimoração de telas já existentes, correções de bugs, e melhoria no código geral.
   
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
@@ -56,7 +55,7 @@
 01          | 02/04/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/edit/main/entreg%C3%A1veis/sprint1.md">Sprint 1</a> |
 02          | 23/04/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/edit/main/entreg%C3%A1veis/sprint2.md">Sprint 2</a>
 03          | 15/05/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint3.md">Sprint 3</a>
-04          | 06/06/2023  | 🔒️  | <a href="">Sprint 4</a>
+04          | 06/06/2023  | ✅  | <a href="">Sprint 4</a>
  <p align="right"><a href="#topo">Voltar ao Topo</p>
  
  
@@ -64,7 +63,7 @@
 
 ## 📦️ Backlog da Sprint
 
-<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Backlog%20Sprint%2003.png">
+<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Group%2031%20(3).png">
 
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
