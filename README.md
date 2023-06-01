@@ -164,13 +164,6 @@ Documentação da API feita no Swagger, onde inclui todos os arquivos necessári
  <p align="right"><a href="#topo">Voltar ao Topo</p> 
 
 # 🧱 Acessar a aplicação
-### Em Desenvolvimento 🚧🚧🚧
-<a href="">
- <img src="https://github.com/Conveccao/conveccao-documentacao/blob/master/acessar.png" >
-</a>
-<p align="right"><a href="#topo">Voltar ao Topo</p>
-<br>
-
 <hr>
 
 <a href="https://github.com/ProManage-FatecSJC/pro-manager-web">
