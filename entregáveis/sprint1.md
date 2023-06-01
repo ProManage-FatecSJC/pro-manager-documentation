@@ -96,7 +96,7 @@ Plataforma que permita o cadastro completo de parceiros e membros, registre toda
 | ![](https://avatars.githubusercontent.com/u/52466841?s=30) | [Bruno Pisciotta](https://github.com/bruno-pisciotta281)| Scrum Master | [LinkedIn](https://www.linkedin.com/in/bruno-pisciotta-577216198/) 
 | ![](https://avatars.githubusercontent.com/u/78803504?s=30) | [Nathan Truyts](https://github.com/Nathtruyts)      |   Product Owner    | [LinkedIn](https://www.linkedin.com/in/nathan-truyts-43737020a/) |
 | ![](https://avatars.githubusercontent.com/u/78958795?s=30) | [Ana Carolina do Santos](https://github.com/annakks)|  Developer Back-End    | [LinkedIn](https://www.linkedin.com/in/ana-santos-856436145/) |
-| ![]()                                                     |  [Daniel Luciano](https://github.com/daniellsfilho)  | Developer Back-End | [LinkedIn](https://www.linkedin.com/in/daniel-filho-3b6583209/) |
+| ![](https://avatars.githubusercontent.com/u/79336346?s=30)                                                     |  [Daniel Luciano](https://github.com/daniellsfilho)  | Developer Back-End | [LinkedIn](https://www.linkedin.com/in/daniel-filho-3b6583209/) |
 | ![](https://avatars.githubusercontent.com/u/69692614?s=30) | [Vinicius Buarque](https://github.com/vbuarque)     | Developer Front-End | [LinkedIn](https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/) |
 
 
