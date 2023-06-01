@@ -58,9 +58,9 @@ Plataforma que permita o cadastro completo de parceiros e membros, registre toda
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
 01          | 02/04/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/edit/main/entreg%C3%A1veis/sprint1.md">Sprint 1</a> |
-02          | 23/04/2023  | 🔒️  | <a href="">Sprint 2</a>
-03          | 15/05/2023  | 🔒️  | <a href="">Sprint 3</a>
-04          | 06/06/2023  | 🔒️  | <a href="">Sprint 4</a>
+02          | 23/04/2023  | ✅  | <a href="">Sprint 2</a>
+03          | 15/05/2023  | ✅  | <a href="">Sprint 3</a>
+04          | 06/06/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint4.md">Sprint 4</a>
  <p align="right"><a href="#topo">Voltar ao Topo</p>
 
 
@@ -75,13 +75,6 @@ Plataforma que permita o cadastro completo de parceiros e membros, registre toda
 <span id="Equipe">
   
 # 🧱 Acessar a aplicação
-### Em Desenvolvimento 🚧🚧🚧
-<a href="">
- <img src="https://github.com/Conveccao/conveccao-documentacao/blob/master/acessar.png" >
-</a>
-<p align="right"><a href="#topo">Voltar ao Topo</p>
-<br>
-
 <hr>
 
 <a href="https://github.com/ProManage-FatecSJC/pro-manager-web">
