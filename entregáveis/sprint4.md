@@ -98,12 +98,12 @@
 <p align="right"><a href="#topo">Voltar ao Topo</p>
 
 <span id="Burndown">
-
+  
 ## 🔥 Burndown 
 
 O time foi dividido em duas partes: back-end e front-end, onde foram divididas tarefas para cada time, ao final da sprint chegamos ao resultado final, encontrado a baixo:
 
-<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/Burndown%2003.png" >
+<img src = "https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/burndown-sprint-04.png" >
   
 ## [Documentação oficial do projeto](https://github.com/ProManage-FatecSJC/pro-manager-documentation)
 
